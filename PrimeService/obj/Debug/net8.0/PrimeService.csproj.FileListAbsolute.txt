@@ -9,3 +9,4 @@
 /Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
 /Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.pdb
 /Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
+/Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json

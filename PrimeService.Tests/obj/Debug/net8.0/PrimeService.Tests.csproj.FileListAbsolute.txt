@@ -111,3 +111,4 @@
 /Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService.Tests/obj/Debug/net8.0/PrimeService.Tests.pdb
 /Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService.Tests/obj/Debug/net8.0/PrimeService.Tests.genruntimeconfig.cache
 /Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService.Tests/obj/Debug/net8.0/ref/PrimeService.Tests.dll
+/Users/alyssawilliams/C#_Projects/unit-testing-using-mstest/PrimeService.Tests/obj/Debug/net8.0/PrimeService.Tests.sourcelink.json
